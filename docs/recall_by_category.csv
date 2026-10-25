@@ -1,0 +1,5 @@
+category,Isolation Forest,One-Class SVM,Local Outlier Factor,Autoencoder
+DoS,0.7696,0.8601,0.5642,0.9217
+Probe,0.9678,0.95,0.5002,0.9401
+R2L,0.0742,0.164,0.6873,0.5123
+U2R,0.2239,0.4925,0.6269,0.6119
